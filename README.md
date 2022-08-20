@@ -18,11 +18,10 @@ Requires `R` with libraries `lubridate`, `ggplot2`, `dplyr`.
 [Example weight.pdf](weight_example.pdf).
 (By the way these are not my real weights).
 
-![Weight plot example](weight_example.png?raw=true "Title")
-
-
 `.gitignore` is set to exclude `weight.md` and `weight.pdf` for tracking. 
 Use your local backup system for icloud.
+
+![Weight plot example](weight_example.png?raw=true "Title")
 
 ## Set up
 1. Add the "weight" folder to the base of iCloud. 
