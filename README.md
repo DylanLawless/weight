@@ -30,8 +30,8 @@ Use your local backup system for icloud.
 ## Set up
 1. Add the "weight" folder to the base of iCloud. 
 2. `setup.sh` will add 5 lines to your `~/.bash_profile` to source the `config`.
-3. If you place this repo in a different location you need to replace location for 3 file:
-"~/Library/Mobile\ Documents/com~apple~CloudDocs"
+3. If you place this repo in a different location you need to replace the location for 3 files:
+`~/Library/Mobile\ Documents/com~apple~CloudDocs`
 
 * setup.sh
 * config
