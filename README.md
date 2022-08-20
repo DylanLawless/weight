@@ -26,15 +26,7 @@ Use your local backup system for icloud.
 ## Set up
 1. Add the "weight" folder to the base of iCloud. 
 2. `setup.sh` will add 5 lines to your `~/.bash_profile` to source the `config`.
-
-> printf '
-> 
-> # Source aliases for weightbook log
-> if [ -f ~/Library/Mobile\ Documents/com~apple~CloudDocs/weight/config ];
-> 	then source ~/Library/Mobile\ Documents/com~apple~CloudDocs/weight/config
-> fi' >> ~/.bash_profile
-
-3. If you place it in a different location you need to replace location for 3 file:
+3. If you place this repo in a different location you need to replace location for 3 file:
 "~/Library/Mobile\ Documents/com~apple~CloudDocs"
 
 * setup.sh
