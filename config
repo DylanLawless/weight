@@ -1,0 +1,5 @@
+
+# Quick entry: Add a quick one line entry to the main contents file
+alias weight='sh ~/Library/Mobile\ Documents/com~apple~CloudDocs/weight/weight.sh'
+alias weightplot='Rscript ~/Library/Mobile\ Documents/com~apple~CloudDocs/weight/weight.R && open ~/Library/Mobile\ Documents/com~apple~CloudDocs/weight/weight.pdf'
+
