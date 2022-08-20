@@ -18,6 +18,9 @@ Requires `R` with libraries `lubridate`, `ggplot2`, `dplyr`.
 [Example weight.pdf](weight_example.pdf).
 (By the way these are not my real weights).
 
+![Weight plot example](weight_example.png?raw=true "Title")
+
+
 `.gitignore` is set to exclude `weight.md` and `weight.pdf` for tracking. 
 Use your local backup system for icloud.
 
@@ -38,5 +41,18 @@ Use your local backup system for icloud.
 * setup.sh
 * config
 * weight.sh
+
+## Other notes
+This was created with
+
+`mkdir repo && cd repo`
+`git remote add origin git@github.com:DylanLawless/weight.git`
+`git add .`
+
+`git remote -v`
+`git remote set-url origin git@github.com:DylanLawless/weight.git`
+
+`git commit -m "initial commit"`
+`git push origin main`
 
 
