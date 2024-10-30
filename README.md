@@ -15,7 +15,7 @@ Requires `R` with libraries `lubridate`, `ggplot2`, `dplyr`.
 3. The pdf plot will generate and open
 
 ## Manual inspection
-If the `setup.sh` ran correctly, you will also an alias to change directory with terminal: `cd weight`.
+If the `setup.sh` ran correctly, you will also have an alias to change directory with terminal: `cd weight`.
 Here you can manually run `sh weight.sh`, `Rscript weight.R`, or view `weight.md`, `weight.pdf`.
 
 ## Output
